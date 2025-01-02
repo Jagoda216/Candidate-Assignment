@@ -25,3 +25,13 @@ If you encounter issues related to HTTPS connections, ensure the following:
 Your local development environment recognizes the trusted HTTPS certificate.
 If necessary, manually trust the development certificate by running:
 dotnet dev-certs https --trust
+
+Test Users
+To facilitate testing of the application, I have pre-created four users in the database. You can use these credentials to log in and test the application's functionality.
+
+Username	Password
+Ikea	test1234
+Bauhaus	1234test
+Lesnina	testTest
+Jysk	Testtest
+Use these accounts to log in to the WPF client application.
