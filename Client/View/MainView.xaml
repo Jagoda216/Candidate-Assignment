@@ -6,7 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Client"
         mc:Ignorable="d"
-        Title="MainView" Height="600" Width="450">
+        Title="MainView" Height="600" Width="900">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource= "C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\Resources\A_modern_warehouse-themed_background_image_designe.jpg"/>

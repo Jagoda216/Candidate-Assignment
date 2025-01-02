@@ -20,21 +20,30 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/3.1.0/signalr.min.js"></script>
 <script>
 
+    //Checks if singalR is loaded
     if (typeof signalR !== "undefined") {
+
+        //Initializes a SignalR connection
         const connection = new signalR.HubConnectionBuilder()
             .withUrl("/quantityupdate")
             .build();
 
+        //Starts a connection to SingalR
         connection.start()
             .then(() => console.log("Connected to SignalR"))
             .catch(err => console.error("Error while starting connection: " + err));
-  
+
+        //Handles RecivedUpdatedQuantity event
         connection.on("RecivedUpdatedQuantity", (name, newQuantity) => {
             console.log(`Received updated quantity: ${name} - ${newQuantity}`);
-         
+
+            //Locates DOM element for specified user name
             const quantityElement = document.querySelector(`.quantity[data-name="${name}"]`);        
             if (quantityElement) {
+
                 console.log(`Updating quantity for ${name} to ${newQuantity}`);
+
+                //Update element data
                 quantityElement.textContent = newQuantity; 
             } else {
                 console.error(`Element not found for customer: ${name}`);

@@ -5,7 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Client.Model
-{
+{   
+    /// <summary>
+    /// Represents a user's structure in application
+    /// </summary>
     public class User
     {
         public string Username { get; set; }

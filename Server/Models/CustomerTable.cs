@@ -1,5 +1,8 @@
 ﻿namespace Server.Models
 {
+    /// <summary>
+    /// Customer table structure in database
+    /// </summary>
     public class CustomerTable
     {
         public int Id { get; set; }
