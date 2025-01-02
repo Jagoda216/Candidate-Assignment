@@ -1,0 +1,68 @@
+﻿@model List<Server.Models.CustomerTable>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody id="customerTable">
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Name</td>
+                <td class="quantity" data-name="@customer.Name">@customer.Quantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/3.1.0/signalr.min.js"></script>
+<script>
+
+    if (typeof signalR !== "undefined") {
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/quantityupdate")
+            .build();
+
+        connection.start()
+            .then(() => console.log("Connected to SignalR"))
+            .catch(err => console.error("Error while starting connection: " + err));
+  
+        connection.on("RecivedUpdatedQuantity", (name, newQuantity) => {
+            console.log(`Received updated quantity: ${name} - ${newQuantity}`);
+         
+            const quantityElement = document.querySelector(`.quantity[data-name="${name}"]`);        
+            if (quantityElement) {
+                console.log(`Updating quantity for ${name} to ${newQuantity}`);
+                quantityElement.textContent = newQuantity; 
+            } else {
+                console.error(`Element not found for customer: ${name}`);
+            }
+        });
+    } else {
+        console.error("SignalR is not loaded");
+    }
+</script>
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid #ddd;
+    }
+
+    th, td {
+        padding: 8px;
+        text-align: center;
+        border: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    td {
+        background-color: #fff;
+    }
+</style>

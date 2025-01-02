@@ -1,0 +1,63 @@
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Syncfusion.Licensing.dll
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Syncfusion.SfInput.WPF.dll
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\bin\Debug\net8.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.cache
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.lref
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.g.resources
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.sourcelink.json
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.csproj.Up2Date
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\jakob\Documents\GitHub\Development-project-Client-Server-\Client\obj\Debug\net8.0-windows\ref\Client.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Syncfusion.Licensing.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Syncfusion.SfInput.WPF.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\bin\Debug\net8.0-windows\Syncfusion.Shared.WPF.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.cache
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client_MarkupCompile.lref
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.g.resources
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.csproj.Up2Date
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\jakob\Documents\GitHub\Candidate Assignment\Client\obj\Debug\net8.0-windows\ref\Client.dll
