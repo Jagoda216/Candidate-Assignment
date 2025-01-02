@@ -5811,11 +5811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\jakob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Server\\obj\\",
+      "outputPath": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

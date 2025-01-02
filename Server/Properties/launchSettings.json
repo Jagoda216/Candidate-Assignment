@@ -13,9 +13,16 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7202",
+      "applicationUrl": "https://localhost:5001",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     }
+  },
+  "IIS Express": {
+    "commandName": "IISExpress",
+    "launchBrowser": true,
+    "applicationUrl": "http://localhost:24108",
+    "sslPort": 44319
+  }
 }

@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\",
+  "WorkspaceRootPath": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\services\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:services\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate assignment\\client\\services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:command\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\services\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:services\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|c:\\users\\jakob\\documents\\github\\candidate-assignment\\client\\view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C939DBDB-491E-4C5E-B059-E106D258BAE3}|Client.csproj|solutionrelative:view\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,22 +58,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\View\\LoginView.xaml",
-              "RelativeDocumentMoniker": "View\\LoginView.xaml",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\View\\LoginView.xaml",
-              "RelativeToolTip": "View\\LoginView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-02T08:46:23.845Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainView.xaml",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\View\\MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\View\\MainView.xaml",
               "RelativeDocumentMoniker": "View\\MainView.xaml",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\View\\MainView.xaml",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\View\\MainView.xaml",
               "RelativeToolTip": "View\\MainView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-01T16:20:37.384Z",
@@ -81,35 +70,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Authentication.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Services\\Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Services\\Authentication.cs",
               "RelativeDocumentMoniker": "Services\\Authentication.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Services\\Authentication.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Services\\Authentication.cs",
               "RelativeToolTip": "Services\\Authentication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T20:52:41.326Z"
+              "WhenOpened": "2025-01-01T20:52:41.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\View\\LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\View\\LoginView.xaml.cs",
               "RelativeDocumentMoniker": "View\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\View\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\View\\LoginView.xaml.cs",
               "RelativeToolTip": "View\\LoginView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:18:36.524Z"
+              "WhenOpened": "2025-01-02T08:18:36.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Model\\User.cs",
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Navigation.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Services\\Navigation.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Services\\Navigation.cs",
               "RelativeDocumentMoniker": "Services\\Navigation.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Services\\Navigation.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Services\\Navigation.cs",
               "RelativeToolTip": "Services\\Navigation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\ViewModel\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "ViewModel\\MainViewModel.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,11 +132,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv0MAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:17:20.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\View\\LoginView.xaml",
+              "RelativeDocumentMoniker": "View\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\View\\LoginView.xaml",
+              "RelativeToolTip": "View\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T08:46:23.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\ViewModel\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\ViewModel\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\ViewModel\\LoginViewModel.cs",
               "RelativeToolTip": "ViewModel\\LoginViewModel.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwDcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,23 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "Services\\ApiService.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Services\\ApiService.cs",
-              "RelativeToolTip": "Services\\ApiService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwD4AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:17:20.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Command\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Command\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Command\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Command\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Command\\RelayCommand.cs",
               "RelativeToolTip": "Command\\RelayCommand.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MainView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\View\\MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\View\\MainView.xaml.cs",
               "RelativeDocumentMoniker": "View\\MainView.xaml.cs",
-              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\View\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\View\\MainView.xaml.cs",
               "RelativeToolTip": "View\\MainView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

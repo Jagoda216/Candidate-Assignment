@@ -73,4 +73,4 @@ app.MapControllerRoute(
 
 app.UseCors("AllowAll");
 
-app.Run("https://localhost:7202");
+app.Run("https://localhost:5001");

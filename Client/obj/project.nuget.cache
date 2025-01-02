@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CDPnr1SwyyI=",
+  "dgSpecHash": "efdVtkY+cfc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate Assignment\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\jakob\\Documents\\GitHub\\Candidate-Assignment\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jakob\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\jakob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",

@@ -21,7 +21,7 @@ namespace Client.Services
 
 			_httpClient = new HttpClient
             {
-                BaseAddress = new Uri("https://localhost:7202")
+                BaseAddress = new Uri("https://localhost:5001")
             };
 
 			_authentication = new Authentication(_httpClient);

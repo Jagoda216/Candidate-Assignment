@@ -48,7 +48,7 @@ namespace Server.Controllers.ApiControllers
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("jQYN7PJXLZFzCLTNb1CMgSFwvQHH2SGb"));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
             var token = new JwtSecurityToken(
-                issuer: "https://localhost:7202",
+                issuer: "https://localhost:5001",
                 audience: "InternalSystemAPI",
                 claims: claims,
                 expires: DateTime.Now.AddHours(1),
